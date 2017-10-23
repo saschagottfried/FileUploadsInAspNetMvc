@@ -6,6 +6,7 @@ Working code sample compiled from snippets provided by this tutorial: https://cp
 ## What concepts are demonstrated?
 
 - use a single MVC view model to describe an entity including data provided by file uploads
-- MVC model binding - controller uses complex type
+- provide separate models for domain modelling and presentation purposes
+- MVC model binding - controller actions use complex type parameters
 - MVC model validation - model class uses data annotations
 
